@@ -1,0 +1,19 @@
+.image-container {
+    display: flex;
+    align-items: flex-start; /* Aligns items to the top of the container */
+    margin-right: 16px; /* Adds some spacing between image and concepts */
+}
+  
+.concepts-container {
+    display: flex;
+    flex-direction: column; /* Stacks concepts vertically */
+}
+  
+.concept {
+    margin-bottom: 8px; /* Adds spacing between concepts */
+}
+
+.image-container {
+    max-width: 400px;
+    max-height: 400px;
+}
