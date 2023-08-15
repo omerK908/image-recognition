@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-recognition/static/css/main.694fecba.css",
+    "main.js": "/image-recognition/static/js/main.04b54119.js",
+    "static/js/496.16dfab54.chunk.js": "/image-recognition/static/js/496.16dfab54.chunk.js",
+    "index.html": "/image-recognition/index.html",
+    "main.694fecba.css.map": "/image-recognition/static/css/main.694fecba.css.map",
+    "main.04b54119.js.map": "/image-recognition/static/js/main.04b54119.js.map",
+    "496.16dfab54.chunk.js.map": "/image-recognition/static/js/496.16dfab54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.694fecba.css",
+    "static/js/main.04b54119.js"
+  ]
+}
