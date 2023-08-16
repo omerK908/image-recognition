@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^14.4.3",
     "clarifai": "^2.9.1",
     "clarifai-nodejs-grpc": "^9.7.0",
-    "gh-pages": "^6.0.0",
     "particles-bg": "^2.5.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -47,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "tsparticles": "^2.12.0"
   }
 }
